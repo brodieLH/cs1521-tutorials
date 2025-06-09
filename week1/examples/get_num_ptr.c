@@ -10,6 +10,6 @@ int main(void) {
 }
 
 int *get_num_ptr(void) {
-    int x = 42
+    int x = 42;
     return &x;
 }

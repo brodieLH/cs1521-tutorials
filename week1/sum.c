@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int sum(int n);
+int sum_recursive(int n);
 
 int main(int argc, char *argv[]) {
         int n;
