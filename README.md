@@ -6,7 +6,7 @@ If you're just after the slides:
 
 - [Week 1 Slides](week1/Tutorial1.pdf)
 - [Week 2 Slides](week2/Tutorial2.pdf)
-- [Week 3 Slides](week2/Tutorial3.pdf)
+- [Week 3 Slides](week3/Tutorial3.pdf)
 
 
 
