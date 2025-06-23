@@ -7,7 +7,7 @@ If you're just after the slides:
 - [Week 1 Slides](week1/Tutorial1.pdf)
 - [Week 2 Slides](week2/Tutorial2.pdf)
 - [Week 3 Slides](week3/Tutorial3.pdf)
-
+- [Week 4 Slides](week4/Tutorial4.pdf)
 
 
 
@@ -30,9 +30,11 @@ If you're just after the slides:
 ### Reflection/TODO FIXES
     Week 1
     - add atoi example to week 1 slides
+    
     Week 2
     - consider drawing lines to visualise branches (either in class or on slides)
     - Fix mips loop example missing branch back to condition
+
     Week 3
     - Update slides! a few mistakes in them
     - Consider combining q5/6/7 into one, and do q8 instead, they were way too similar
