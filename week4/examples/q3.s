@@ -18,33 +18,5 @@ sum2__epilogue:
 
 sum4:
 sum4__prologue:
-	push 	$ra
-	push	$s0
-	push	$s1
-	push 	$s2
-	push 	$s3
-
 sum4__body:
-	move	$s0, $a2		# saving c in $s0
-	move	$s1, $a3		# saving d in $s1	
-
-	jal	sum2			# sum2(a, b)
-	move	$s2, $v0		# res1 = sum2(a, b)
-
-	move	$a0, $s0
-	move	$a1, $s1		
-	jal	sum2			# sum(c, d)
-	move	$s3, $v0		# res2 = sum2(c, d)
-
-	move	$a0, $s2		
-	move	$a1, $s3
-	jal	sum2			# sum2(res1, res2)
-
 sum4__epilogue:
-	pop	$s3
-	pop	$s2
-	pop	$s1
-	pop	$s0
-	pop	$ra
-	
-	jr	$ra			# return sum2(res1, res2)
