@@ -39,3 +39,12 @@ If you're just after the slides:
     - Update slides! a few mistakes in them
     - Consider combining q5/6/7 into one, and do q8 instead, they were way too similar
     - Improve hexidecimal explanation
+    
+    Week 4
+    - Fix mistakes in slides
+    - Ran low on time, potentially cull some information
+
+    Week 8
+    - Ran very under time, slow down explanation or fill in more content (chmod/fseek examples)
+    - If assignment out early enough, quick planned overview
+    - improve file permissions content
