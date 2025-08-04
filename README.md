@@ -10,6 +10,7 @@ If you're just after the slides:
 - [Week 4 Slides](week04/Tutorial4.pdf)
 - [Week 8 Slides](week08/Tutorial8.pdf)
 - [Week 9 Slides](week09/Tutorial9.pdf)
+- [Week 10 Slides](week10/Tutorial10.pdf)
 
 
 
@@ -50,3 +51,8 @@ If you're just after the slides:
     - Ran very under time, slow down explanation or fill in more content (chmod/fseek examples)
     - If assignment out early enough, quick planned overview
     - improve file permissions content
+
+    Week 9
+    - Timing was good
+    - Execution of examples was not brilliant
+    - Need to find a better balance between week 8 and 9 content to make both run
