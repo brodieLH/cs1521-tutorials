@@ -17,4 +17,4 @@ main:
 	syscall             
 
 	li      $v0, 0
-jr      $ra      	   	# return 0 from main
+	jr      $ra      	# return 0 from main
