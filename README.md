@@ -32,7 +32,7 @@ If you're just after the slides:
 
 ### Reflection/TODO FIXES
     Week 1
-    - add atoi example to week 1 slides
+    - FIXED!
     
     Week 2
     - consider drawing lines to visualise branches (either in class or on slides)
