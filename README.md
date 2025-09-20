@@ -32,11 +32,13 @@ If you're just after the slides:
 
 ### Reflection/TODO FIXES
     Week 1
-    - FIXED!
+    - Still feels rushed and having time left over
+    - Improve intro to mips
+    - Maybe run through small mips example
+    - recursion example could do with better diagrams
     
     Week 2
-    - consider drawing lines to visualise branches (either in class or on slides)
-    - Fix mips loop example missing branch back to condition
+    - Fixed for T3 2025
 
     Week 3
     - Update slides! a few mistakes in them
