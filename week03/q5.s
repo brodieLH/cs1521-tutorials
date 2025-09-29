@@ -12,6 +12,7 @@ main_loop_cond:
 
 main_loop_body:
 	li	$v0, 5				# scanned value in $v0	syscall
+	syscall
 
 	# offset will be i * 4 as it is an array of words (4 bytes)
 	mul	$t1, $t0, 4			# offset = i * 4

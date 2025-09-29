@@ -41,9 +41,7 @@ If you're just after the slides:
     - Fixed for T3 2025
 
     Week 3
-    - Update slides! a few mistakes in them
-    - Consider combining q5/6/7 into one, and do q8 instead, they were way too similar
-    - Improve hexidecimal explanation
+    - Next time take note of mistakes in slides!! otherwise good
     
     Week 4
     - Fix mistakes in slides
