@@ -8,6 +8,7 @@ If you're just after the slides:
 - [Week 2 Slides](week02/Tutorial2.pdf)
 - [Week 3 Slides](week03/Tutorial3.pdf)
 - [Week 4 Slides](week04/Tutorial4.pdf)
+- [Week 5 Slides](week05/Tutorial5.pdf)
 - [Week 8 Slides](week08/Tutorial8.pdf)
 - [Week 9 Slides](week09/Tutorial9.pdf)
 - [Week 10 Slides](week10/Tutorial10.pdf)
